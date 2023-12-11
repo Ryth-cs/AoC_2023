@@ -1,1 +1,1 @@
-console.log("Hello via Bun!");
+console.log("Testing git creds");
